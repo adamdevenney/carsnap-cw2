@@ -19,3 +19,8 @@
 - Database: carsnapdb
 - Tables: Users, Likes
 - Demo user: demoUser (UserId=1)
+
+## Logic Apps
+- HTTP URL: https://prod-49.uksouth.logic.azure.com:443/workflows/8d83d467824241b9a34f079387221224/triggers/When_an_HTTP_request_is_received/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_an_HTTP_request_is_received%2Frun&sv=1.0&sig=mM2TOWW4jV2c-qcwhKLOp0COSjc4MW2xXYHpI9vsCAg
+- Logic App name: la-carsnap-uploadpost
+- Upload endpoint URL: https://prod-49.uksouth.logic.azure.com:443/workflows/8d83d467824241b9a34f079387221224/triggers/When_an_HTTP_request_is_received/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_an_HTTP_request_is_received%2Frun&sv=1.0&sig=mM2TOWW4jV2c-qcwhKLOp0COSjc4MW2xXYHpI9vsCAg
