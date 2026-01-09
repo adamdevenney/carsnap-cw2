@@ -7,3 +7,9 @@
 
 ## Notes
 - Container access: Private
+
+## Cosmos DB
+- Account: carsnapcosmosdb
+- Database: carsnap
+- Container: posts
+- Partition key: /id
