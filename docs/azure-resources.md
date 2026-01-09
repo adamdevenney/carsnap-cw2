@@ -13,3 +13,9 @@
 - Database: carsnap
 - Container: posts
 - Partition key: /id
+
+## Azure SQL
+- Server: carsnap-sql-19378
+- Database: carsnapdb
+- Tables: Users, Likes
+- Demo user: demoUser (UserId=1)
